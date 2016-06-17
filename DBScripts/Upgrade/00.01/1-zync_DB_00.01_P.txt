@@ -1,0 +1,10 @@
+:SETVAR PackageModule  DBZYNC
+:SETVAR PackageScript  Upgrade
+:SETVAR PackageVersion 00.01.005
+:SETVAR PackageDate    2015/05/05
+
+
+========================================================================
+Versions
+========================================================================
+00.01.005 2015/05/05 Added [dbo].[resetyyyyy]

@@ -1,0 +1,10 @@
+:SETVAR PackageModule  TRG
+:SETVAR PackageScript  Upgrade
+:SETVAR PackageVersion 00.01.003
+:SETVAR PackageDate    2015/05/05
+
+
+========================================================================
+Versions
+========================================================================
+00.01.003 2015/05/05 Added TRG version full
