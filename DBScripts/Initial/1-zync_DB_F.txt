@@ -1,0 +1,13 @@
+:SETVAR PackageModule  DBZYNC
+:SETVAR PackageScript  Upgrade
+:SETVAR PackageVersion 00.00.002
+:SETVAR PackageDate    2016/06/10
+
+
+========================================================================
+Versions
+========================================================================
+00.00.001 2015/05/03 Added [dbo].[resetProcessingStatus]
+00.00.002 2015/05/03 Added [dbo].[resetxxxxxxxxx]
+00.00.003 2015/05/04 Added [dbo].[resetyyyyy]
+00.00.004 2015/05/04 Added [dbo].[resetyyyyy]

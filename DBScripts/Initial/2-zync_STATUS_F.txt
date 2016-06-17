@@ -1,0 +1,13 @@
+:SETVAR PackageModule  STATUS
+:SETVAR PackageScript  Upgrade
+:SETVAR PackageVersion 00.00.004
+:SETVAR PackageDate    2016/05/11
+
+
+========================================================================
+Versions
+========================================================================
+00.00.001 2015/05/03 Added status to xxxx
+00.00.002 2015/05/03 Added status to zzzzzzzzzzz
+00.00.003 2015/05/10 Added status to zzzzzzzzzzz
+00.00.004 2015/05/11 Added status to zzzzzzzzzzz
